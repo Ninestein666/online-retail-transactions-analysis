@@ -2,7 +2,7 @@
 
 ## Template Instructions
 
-Welcome,
+
 
 This is the Code Institute student template for the Data Analytics capstone project. We have preinstalled all of the tools you need to get started. It's perfectly okay to use this template as the basis for your project submissions. Click the `Use this template` button above to get started.
 
