@@ -76,6 +76,8 @@ Team Collaboration:
 
 ## Hypothesis and how to validate?
 
+
+
 ## Key Findings and Insights
 - Sales Trends:
 - Sales are seasonal, with peaks during holiday periods. This suggests that marketing efforts should be intensified during November and December.
@@ -83,7 +85,10 @@ Team Collaboration:
 
 - Geographical Insights:
 - The UK is the largest market, but significant sales also come from Germany, France, and the Netherlands. This indicates potential for targeted marketing campaigns in these countries.
-- 
+
+- Business Performance:
+- We have noted in block 306 of the ETL notebook some of the more expensive costs to the business are not for items sold but for business expenses. This is something the business may want to look into further.
+- Furture analysis should be done to identify the most returned products and understand the reasons behind returns to improve customer satisfaction and reduce costs. This can be views in block 301 in the ETL notebook.
 
 ## Project Review and Conclusion
 
