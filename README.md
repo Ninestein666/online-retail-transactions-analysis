@@ -75,8 +75,17 @@ Team Collaboration:
 - Handled duplicate entries by removing exact duplicates and flagging potential return transactions for separate analysis.
 
 ## Hypothesis and how to validate?
+- Hypothesis 1: Certain products are more likely to be returned than others. To validate this, we can analyse the return rates by product category and identify any patterns or trends.
 
+- Hypothesis 2: Customers with higher RFM (Recency, Frequency, Monetary) scores are more likely to make repeat purchases. We can validate this by segmenting customers based on their RFM scores and analysing their purchase behaviour over time.
+How to validate:
+1. Calculated recency, frequency, and monetary value per customer.
+2. Divided customers into quartiles to find RFM "Champions" (top scores).
+3. Computed revenue contribution of Champions.
+4. Found that Champions (customers with a score of 4), while fewer in number, contributed significantly more (over 80%) to overall revenue compared to other segments.
+- Insight: prioritise retention and rewards for high-value customers.
 
+- Hypothesis 3: Sales are seasonal, with peaks during holiday periods. We can validate this by analysing sales data over time and identifying any seasonal patterns or trends.
 
 ## Key Findings and Insights
 - Sales Trends:
@@ -91,6 +100,8 @@ Team Collaboration:
 - Furture analysis should be done to identify the most returned products and understand the reasons behind returns to improve customer satisfaction and reduce costs. This can be views in block 301 in the ETL notebook.
 
 ## Project Review and Conclusion
+
+
 
 ## Credits
 - Abhishek Ranjan - Original Dataset Creator
