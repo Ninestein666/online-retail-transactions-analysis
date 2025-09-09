@@ -86,6 +86,8 @@ How to validate:
 - Insight: prioritise retention and rewards for high-value customers.
 
 - Hypothesis 3: Sales are seasonal, with peaks during holiday periods. We can validate this by analysing sales data over time and identifying any seasonal patterns or trends.
+##Fill in##
+
 
 ## Key Findings and Insights
 - Sales Trends:
@@ -100,7 +102,7 @@ How to validate:
 - Furture analysis should be done to identify the most returned products and understand the reasons behind returns to improve customer satisfaction and reduce costs. This can be views in block 301 in the ETL notebook.
 
 ## Project Review and Conclusion
-
+##Fill in##
 
 
 ## Credits
