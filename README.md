@@ -73,6 +73,7 @@ Team Collaboration:
 - Initial issues with saving large cleaned datasets on GitHub were resolved by compressing the files into `.zip` format.
 - Encountered missing values in the CustomerID column; decided to drop these rows as they were essential for customer analysis.
 - Handled duplicate entries by removing exact duplicates and flagging potential return transactions for separate analysis.
+- We have also noted that some outliars exist as they are not for items sold but for business expenses which can been seen in the ETL notebook (block 306.)
 
 ## Hypothesis and how to validate?
 
